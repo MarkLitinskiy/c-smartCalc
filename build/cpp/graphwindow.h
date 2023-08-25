@@ -5,7 +5,7 @@
 #include <QVector>
 
 #include "mainwindow.h"
-#include "qcustomplot.h"
+#include "cpp/qcustomplot.h"
 
 extern "C" {
 #include "c/s21_SmartCalc_v1.0.h"

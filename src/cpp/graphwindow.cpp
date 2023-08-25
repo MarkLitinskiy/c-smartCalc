@@ -4,6 +4,7 @@
 #include <iostream>
 
 #include "ui_graphwindow.h"
+#include "qcustomplot.h"
 extern "C" {
 double calculation(char *strIn, char *X, int *error);
 }
